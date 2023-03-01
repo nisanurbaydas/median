@@ -19,3 +19,8 @@ $ npx prisma migrate dev
 $ npm run start:dev
 ```
 5. Access the project at http://localhost:3000/api
+
+## Further improvements
+- [ ] User module and Authentication will be added
+- [ ] Handle file uploads
+- [ ] Unit test will be added
